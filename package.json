@@ -1,0 +1,24 @@
+{
+    "name": "nyc-slice",
+    "private": true,
+    "version": "0.0.1",
+    "description": "",
+    "scripts": {
+        "build": "node build.js"
+    },
+    "keywords": [],
+    "license": "Apache-2.0",
+    "dependencies": {
+        "@finos/perspective": "^1.9.0",
+        "@finos/perspective-viewer": "^1.9.0",
+        "@finos/perspective-viewer-d3fc": "^1.9.0",
+        "@finos/perspective-viewer-datagrid": "^1.9.0",
+        "@finos/perspective-viewer-openlayers": "^1.9.0",
+        "@finos/perspective-workspace": "^1.9.0"
+    },
+    "devDependencies": {
+        "@finos/perspective-esbuild-plugin": "^1.9.0",
+        "esbuild": "^0.16.17",
+        "prettier": "^2.2.1"
+    }
+}

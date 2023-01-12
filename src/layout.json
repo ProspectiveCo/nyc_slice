@@ -1,0 +1,18 @@
+{
+    "Raw": {
+        "sizes": [1],
+        "detail": {
+            "main": {
+                "type": "tab-area",
+                "widgets": ["PERSPECTIVE_GENERATED_ID_0"],
+                "currentIndex": 0
+            }
+        },
+        "mode": "globalFilters",
+        "viewers": {
+            "PERSPECTIVE_GENERATED_ID_0": {
+                "table": "nyc_slice"
+            }
+        }
+    }
+}
